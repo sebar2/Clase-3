@@ -1,0 +1,13 @@
+
+ @font-face {
+    font-family: "Naba";
+    src: url('fonts/Nabla-Regular-VariableFont_EDPT\,EHLT.ttf')
+ }
+ 
+ body{ background-image: url(../clase-2/asset/image/gohan\ super\ hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: naba;
+
+}
+
